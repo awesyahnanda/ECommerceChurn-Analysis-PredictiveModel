@@ -1,4 +1,4 @@
-# ECommerceChurn-Analysis-PredictiveModel
+# E-Commerce Customer Churn Analysis To reduce acquisition and retention costs Using Predictive Modeling
 
 # Background Context
 Dalam dunia bisnis yang dinamis dan penuh persaingan, cara perusahaan beroperasi dan berinteraksi dengan pasar terus berubah. E-commerce adalah salah satu contoh nyata dari evolusi bisnis ini, membuka peluang baru bagi perusahaan dan individu untuk membeli dan menjual barang secara online. Ketika pandemi COVID-19 melanda, penguncian global mendorong lonjakan besar dalam e-commerce. Pada tahun 2020, penetrasi penjualan e-commerce di Amerika Serikat meningkat lebih dari dua kali lipat menjadi 35% dari tahun sebelumnya, yang setara dengan pertumbuhan selama satu dekade. Secara global, hampir 20% dari total penjualan pada tahun 2021 dilakukan secara online, dan diperkirakan akan mencapai hampir seperempat dari semua penjualan global pada tahun 2025 (Mckinsey).
