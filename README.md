@@ -1,6 +1,6 @@
 # E-Commerce Customer Churn Analysis to Reduce Acquisition and Retention Costs using Predictive Modeling
 
-Presentation: [Link]https://www.canva.com/design/DAGL2FOtmnk/18WrhARHPHJXvJYo_M6yng/view?utm_content=DAGL2FOtmnk&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+Presentation: [Link](https://www.canva.com/design/DAGL2FOtmnk/18WrhARHPHJXvJYo_M6yng/view?utm_content=DAGL2FOtmnk&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
 Tableau: [Link](https://public.tableau.com/views/E-CommerceDashboardBetaGroup1/MainDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
